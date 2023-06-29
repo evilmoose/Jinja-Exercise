@@ -1,3 +1,10 @@
 Installing Packages:
 
 $pip install requirements.txt
+
+Set up venv:
+$python -m venv .venv
+
+$source venv/bin/activate
+
+$pip3 install flask
